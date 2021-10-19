@@ -27,11 +27,10 @@ The first step was to clean the data by dealing with null values from the databa
 Generating the files wine 130k.csv and wines.csv with the clean data in the 2-Data folder.
 
 #### <strong>Before</strong>
-![alt text](/images/1cleaning.png "1 Cleaning the data")
+<img src="/images/1cleaning.png" alt="1 Cleaning the data">
 
 #### <strong>After</strong>
-![alt text](/images/2cleaning.png "2 Cleaning the data")
-
+<img src="/images/2cleaning.png" alt="2 Cleaning the data">
 
 ### <br /><strong>2° Analyzing geographic data</strong><br /><br />
 
@@ -41,28 +40,28 @@ I wanted to analyze by continent too so include this in the data table generatin
 
 So, doing some analysis, I recommend some wines based on their score.
 
-![alt text](/images/1r-point.png "1 recommendation by points")
+<img src="/images/1r-point.png" alt="1 recommendation by points">
 
-![alt text](/images/2r-point.png "2 recommendation by points")
+<img src="/images/2r-point.png" alt="2 recommendation by points">
 
-![alt text](/images/3r-point.png "3 recommendation by points")
+<img src="/images/3r-point.png" alt="3 recommendation by points">
 
 #### <strong>Top 10 Wines???</strong>
 
-![alt text](/images/4r-point.png "4 recommendation by points")
+<img src="/images/4r-point.png" alt="4 recommendation by points">
 
 And you can also search for yours by your country or continent and by the variety
 
-![alt text](/images/5r-point.png "5 recommendation by points")
-
+<img src="/images/5r-point.png" alt="5 recommendation by points">
 
 ### <br /><strong>4° Generating the recommendation by taster</strong><br /><br />
 
-![alt text](/images/1r-taster.png "1 recommendation by taster")
 
-![alt text](/images/2r-taster.png "2 recommendation by taster")
+<img src="/images/1r-taster.png" alt="1 recommendation by taster">
 
-![alt text](/images/3r-taster.png "3 recommendation by taster")
+<img src="/images/2r-taster.png" alt="2 recommendation by taster">
+
+<img src="/images/3r-taster.png" alt="3 recommendation by taster">
 
 ## Built With 
 
